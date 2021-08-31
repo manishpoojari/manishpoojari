@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishpoojari
-- 👀 I’m interested in Computer Science
+- 👀 I’m a Computer Science Student
 - 🌱 I’m a learner 
 - 💞️ I live in Nashik,IN
 - 📫 Connect with me on LinkedIn http://www.linkedin.com/in/manishpoojari
